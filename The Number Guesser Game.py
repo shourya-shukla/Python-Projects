@@ -1,5 +1,5 @@
-from random import randint
-n = randint(1, 20)
+from random import randrange
+n = randrange(1, 100) # You can enter the range of your choice here
 g = 10 #The number of guesses
 print("Welcome to the number guesser game, Created by Shourya")
 while(g>0):
