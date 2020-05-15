@@ -1,5 +1,7 @@
-# Health Management System
+# Health Management System created by Shourya
 # 3 clients - Harry, Rohan and Shourya
+print("Welcome to the HMS created by Shourya")
+
 def getdate():
     import datetime
     return datetime.datetime.now()
