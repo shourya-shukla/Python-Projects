@@ -1,4 +1,5 @@
-n = 18 #You can enter number of your choice here
+from random import randint
+n = randint(1, 20)
 g = 10 #The number of guesses
 print("Welcome to the number guesser game, Created by Shourya")
 while(g>0):
